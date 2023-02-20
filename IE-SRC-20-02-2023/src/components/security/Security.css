@@ -1,0 +1,14 @@
+.passwordsetting p{
+  font-weight: 400;
+}
+
+.passwordsetting p span{
+    font-weight: 600;
+    min-width: 110px;
+    display: inline-block;
+}
+.updateall{
+    background-color: #3F51B5;
+    color: #fff;
+    float: right;
+}
